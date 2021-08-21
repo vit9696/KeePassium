@@ -54,9 +54,9 @@ public class FileKeeper {
         
         static var mainAppPrefix: String {
             if BusinessModel.type == .prepaid {
-                return "com.keepassium.pro.recentFiles"
+                return "as.vit9696.com.keepassium.pro.recentFiles"
             } else {
-                return "com.keepassium.recentFiles"
+                return "as.vit9696.com.keepassium.recentFiles"
             }
         }
 
@@ -66,9 +66,9 @@ public class FileKeeper {
             }
             
             if BusinessModel.type == .prepaid {
-                return "com.keepassium.pro.autoFill.recentFiles"
+                return "as.vit9696.com.keepassium.pro.autoFill.recentFiles"
             } else {
-                return "com.keepassium.autoFill.recentFiles"
+                return "as.vit9696.com.keepassium.autoFill.recentFiles"
             }
         }
         

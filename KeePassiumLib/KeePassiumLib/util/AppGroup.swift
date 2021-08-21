@@ -9,7 +9,7 @@
 import Foundation
 
 public class AppGroup {
-    public static let id = "group.com.keepassium"
+    public static let id = "group.as.vit9696.com.keepassium"
     
     public static let appURLScheme = "keepassium"
     
